@@ -5,9 +5,8 @@
 
   <proxies>
     <proxy>
-      <id>optional</id>
       <active>true</active>
-      <protocol>https</protocol>
+      <protocol>http</protocol>
       <host>webproxy.deutsche-boerse.de</host>
       <port>8080</port>
     </proxy>
